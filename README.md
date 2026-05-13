@@ -85,7 +85,7 @@ Note: Make Sure Put PASTEBIN_API_KEY in environment variables ( Required In Past
 
 ## OTHER PROJECTS:
 
-- [MEGA SESSION](https://github.com/Xchristech2/Gaaju-pair)
+- [GAAJU SESSION](https://github.com/Xchristech2/Gaaju-pair)
 - [WHATSAPP BOT](https://github.com/Xchristech2/GAAJU-MD)
 -
 
